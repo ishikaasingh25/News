@@ -1,0 +1,38 @@
+.app-container{
+  display: flex;
+ }
+ .page{
+  width: 100%;
+ }
+.sidebar{
+  min-height: 800px;
+}
+.post-card{
+  margin:20px 30px;
+
+}
+
+.tag_badge{
+  margin:3px;
+}
+.reaction{
+  margin-top: 10px;
+}
+.post-form{
+ width:80%;
+ 
+ margin-left: 10%;
+
+}
+.welcome{
+  margin-top: 50px;
+  color: rgba(12, 84, 209, 0.848);
+}
+.welcome_button{
+  margin-top: 10px;
+  margin-bottom: 600px;
+}
+.load{
+  margin-top: 250px;
+  margin-bottom: 600px;
+}
